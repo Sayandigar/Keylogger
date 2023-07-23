@@ -12,4 +12,4 @@ This project is an keylogger implemented in Python using the `pynput` library. A
 
 - Captures and logs keystrokes from the user's keyboard.
 - Logs keystrokes to a text file named "keylogs.txt".
-- Simple and easy-to-understand code for educational purposes.
+- Simple and easy-to-understand code.
